@@ -61,7 +61,7 @@
 </a>
 <a 
     href="https://dev.to/sanjeevbhusal" 
-    target="blank"
+    target="_blank"
     rel="noreferrer">
     <img 
         align="left" 
@@ -73,7 +73,7 @@
     </a>
 <a 
     href="https://hashnode.com/@sanjeevbhusal" 
-    target="blank">
+    target="_blank">
     <img 
         align="left" 
         alt="hashnode blog" 
@@ -84,7 +84,7 @@
 </a>
 <a 
     href="https://www.leetcode.com/sanjeevbhusal" 
-    target="blank" 
+    target="_blank" 
     rel="noreferrer">
     <img 
         align="left" 
