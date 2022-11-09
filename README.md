@@ -12,7 +12,7 @@
 
 ❤️‍🔥 I have found my interest in backend development and have been working on backend technologies since 1 year.
 
-🚀 I’m currently working on [blogAPI](https://github.com/sanjeevbhusal/blogAPI)
+🚀 I’m currently studying Blockchain.
 
 🌱 I plan to study data structures and algorithms alongside Full Stack Web Development in 2023
 
