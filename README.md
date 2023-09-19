@@ -18,16 +18,16 @@
 
 <p align="left">
 <a 
-    href="https://twitter.com/sanjeevbhusal23" 
+    href="https://linkedin.com/in/sanjeevbhusal" 
     target="_blank" 
-    rel="noreferrer">
+    rel="norefererer">
     <img 
         align="left" 
-        alt="twitter" 
-        height="30px" 
-        width="26px"  
+        alt="linkedin" 
+        height="30px"
+        width="26px" 
         style="padding-right:20px;"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 </a>
 </p>
 </br>
