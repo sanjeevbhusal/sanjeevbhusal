@@ -93,49 +93,5 @@
 
 </br>
 
-### **Languages and Tools**
-
----
-
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="css" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px; margin-top: 10px;"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:20px; margin-top: 10px;"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://docs.pytest.org/en/7.2.x/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="pytest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" style="padding-right:20px; margin-top: 6px"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:20px; margin-top: 10px"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"" style="padding-right:20px; margin-top: 10px"/>
-</a>
-</p>
-
-<br>
-<br>
-<br>
-<br>
 
 <!-- [![sanjeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjeev)](https://github.com/anuraghazra/github-readme-stats) -->
