@@ -138,18 +138,4 @@
 <br>
 <br>
 
-### **My Github Stats**
-
----
-
-</br>
-
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=sanjeevbhusal&count_private=true&show_icons=true&theme=radical&hide=issues,contribs"/>
-
-<br/>
-<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=sanjeevbhusal&hide_border=true&theme=radical">
-
-<br>
-<img align="left" width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevbhusal&layout=compact&theme=radical">
-
 <!-- [![sanjeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjeev)](https://github.com/anuraghazra/github-readme-stats) -->
