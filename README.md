@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Sanjeev Bhusal</h2>
+<!-- <h1 align="center">Hi 👋 My name is Sanjeev Bhusal</h2>
 
 [![introduction banner image](/images/banner.png)](https://www.github.com/sanjeevbhusal)
 
