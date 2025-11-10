@@ -17,7 +17,7 @@ Technologies I have experience in:
 
 <h3>Work Experience</h3>
 
-- Fullstack Developer II at [SecurityPal AI](https://securitypal.ai/) (September 2023 - Present)
+- Fullstack Developer II at [SecurityPal AI](https://www.securitypalhq.com) (September 2023 - Present)
 - Frontend Developer (Intern) at [Proshore](https://proshore.eu/) (April 2023 - June 2023)
 - DevOps Engineer (Intern) at [TAI Inc](https://tai.com.np/en/) (December 2022 - March 2023)
 - Backend Developer (Intern) at [Moru](https://moru.com.np/home) (April 2022 - October 2022)
