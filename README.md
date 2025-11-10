@@ -9,8 +9,8 @@ I have built products used by both Enterprises and High Growth Startups.
 
 Technologies I have experience in:
 
-- Frontend: JavaScript/TypeScript, React, HTML, CSS, Bootstrap, Tailwind CSS
-- Backend: NodeJS, ExpressJS, Python, Django
+- Frontend: JavaScript/TypeScript, React, NextJS,
+- Backend: NodeJS, ExpressJS, Python, Flask, Django
 - Testing: Playwright, Pytest
 - CI/CD: GitLab, GitHub Actions
 - Cloud resources: AWS, GCP
