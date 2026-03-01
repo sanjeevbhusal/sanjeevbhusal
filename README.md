@@ -2,49 +2,10 @@
 <!-- 
 [![introduction banner image](/images/banner.png)](https://www.github.com/sanjeevbhusal) -->
 
-I work as a Fullstack Developer II at [SecurityPal AI](https://securitypal.ai/).
-For the past 4 years, I have worked with companies from various industries such as Artificial Intelligence, Cyber Security, Fintech, Developer Shops, etc.
+I'm a full-stack software engineer with 4 years of experience working across frontend, backend, and infrastructure. I like to own features end-to-end and build reliable, practical solutions for real-world products.  
 
-I have built products used by both Enterprises and High Growth Startups. 
+In my recent work, I've led UI redesigns, built full-stack product features, improved system performance and reliability, and developed integrations with external platforms. I've also worked on analytics systems and AI-powered features in production environments.  
 
-Technologies I have experience in:
+I currently work as a Fullstack Developer II at [SecurityPal AI](https://securitypal.ai/).
 
-- Frontend: JavaScript/TypeScript, React, NextJS,
-- Backend: NodeJS, ExpressJS, Python, Flask, Django
-- Testing: Playwright, Pytest
-- CI/CD: GitLab, GitHub Actions
-- Cloud resources: AWS, GCP
-
-<h3>Work Experience</h3>
-
-- Fullstack Developer II at [SecurityPal AI](https://www.securitypalhq.com) (September 2023 - Present)
-- Frontend Developer (Intern) at [Proshore](https://proshore.eu/) (April 2023 - June 2023)
-- DevOps Engineer (Intern) at [TAI Inc](https://tai.com.np/en/) (December 2022 - March 2023)
-- Backend Developer (Intern) at [Moru](https://moru.com.np/home) (April 2022 - October 2022)
-
-<br>
-
-🌍  I'm based in Kathmandu, Nepal
-
-🧭  In my free time, I like to build side projects. Currently, I'm building a [web app](https://github.com/sanjeevbhusal/docs-app) similar to Google Docs. Why? Just for the fun of it. 
-
-
-<br>
-
-
-You can also find me on LinkedIn. 
-
-<p align="left">
-<a 
-    href="https://linkedin.com/in/sanjeevbhusal" 
-    target="_blank" 
-    rel="norefererer">
-    <img 
-        align="left" 
-        alt="linkedin" 
-        height="16px"
-        width="16px" 
-        style="padding-right:20px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
-</a>
-</p>
+You can find my resume [here](https://drive.google.com/file/d/1wRl7nQIcjgUhvDophVP4eaenOafz_Dc_/view?usp=sharing) . It was last updated on March 1, 2026
